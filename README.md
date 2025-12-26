@@ -104,13 +104,14 @@ This project is under active development. Features, APIs, and architecture may c
 
 <hr />
 
-<h2>📬 Contact</h2>
-<p>
-For collaboration, partnership, or commercial inquiries:
-</p>
-
+<h2>🌐 Connect with Me</h2>
 <ul>
-  <li>GitHub: <a href="https://github.com/engrshuvodas">engrshuvodas</a></li>
+  <li>Website / Portfolio: <a href="https://wasendx.com">wasendx.com</a></li>
+  <li>WhatsApp: <a href="https://wa.me/8801765245872">Chat on WhatsApp</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/shuvo">LinkedIn Profile</a></li>
+  <li>Twitter/X: <a href="https://twitter.com/shuvo_handle">Twitter/X</a></li>
+  <li>Instagram: <a href="https://instagram.com/shuvo_handle">Instagram</a></li>
+  <li>Telegram: <a href="https://t.me/shuvo_handle">Telegram</a></li>
 </ul>
 
 <hr />
