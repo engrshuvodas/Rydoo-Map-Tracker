@@ -104,14 +104,20 @@ This project is under active development. Features, APIs, and architecture may c
 
 <hr />
 
-<h2>🌐 Connect with Me</h2>
+<h2>📩 Stay Connected with Me</h2>
+<p>To activate WaSender or get full access, contact me directly on WhatsApp:</p>
+<p>
+  <a href="https://wa.me/+8801765245872" target="_blank">
+    <mark>+8801765245872</mark>
+  </a>
+</p>
+
 <ul>
-  <li>Website / Portfolio: <a href="https://wasendx.com">wasendx.com</a></li>
-  <li>WhatsApp: <a href="https://wa.me/8801765245872">Chat on WhatsApp</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/shuvo">LinkedIn Profile</a></li>
-  <li>Twitter/X: <a href="https://twitter.com/shuvo_handle">Twitter/X</a></li>
-  <li>Instagram: <a href="https://instagram.com/shuvo_handle">Instagram</a></li>
-  <li>Telegram: <a href="https://t.me/shuvo_handle">Telegram</a></li>
+  <li>📘 <a href="https://www.facebook.com/engr.shuvo74886/" target="_blank">Facebook</a></li>
+  <li>📱 <a href="https://wa.me/+919641700503" target="_blank">WhatsApp</a></li>
+  <li>🔗 <a href="https://www.linkedin.com/in/engr-shuvo-das-a28085260/" target="_blank">LinkedIn</a></li>
+  <li>🐱 <a href="https://github.com/engrshuvodas" target="_blank">GitHub</a></li>
+  <li>📸 <a href="https://www.instagram.com/engrshuvo74886/" target="_blank">Instagram</a></li>
 </ul>
 
 <hr />
