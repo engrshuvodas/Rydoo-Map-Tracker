@@ -1,0 +1,27 @@
+
+name: rydoo
+description: Rydoo Group Bike Tracking - Native Flutter Implementation
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.5.3
+  location: ^5.0.3
+  cloud_firestore: ^4.14.0
+  firebase_core: ^2.24.2
+  provider: ^6.1.1
+  share_plus: ^7.2.1
+  font_awesome_flutter: ^10.6.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

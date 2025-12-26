@@ -1,0 +1,20 @@
+{
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "android": {
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_BACKGROUND_LOCATION"
+    ]
+  },
+  "ios": {
+    "permissions": [
+      "NSLocationWhenInUseUsageDescription",
+      "NSLocationAlwaysAndWhenInUseUsageDescription"
+    ]
+  },
+  "name": "Rydoo Architect Pro",
+  "description": ""
+}

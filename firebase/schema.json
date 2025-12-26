@@ -1,0 +1,40 @@
+
+{
+  "realtime_database": {
+    "sessions": {
+      "$ride_code": {
+        "metadata": {
+          "leader_id": "string",
+          "is_active": "boolean",
+          "start_time": "number"
+        },
+        "locations": {
+          "$user_id": {
+            "lat": "number",
+            "lng": "number",
+            "speed": "number",
+            "bearing": "number",
+            "last_seen": "number"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rides": {
+      "$ride_id": {
+        "code": "string",
+        "leader_uid": "string",
+        "created_at": "timestamp",
+        "chat": [
+          {
+            "sender_id": "string",
+            "sender_name": "string",
+            "text": "string",
+            "timestamp": "timestamp"
+          }
+        ]
+      }
+    }
+  }
+}
